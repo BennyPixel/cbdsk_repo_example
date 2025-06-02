@@ -1,8 +1,7 @@
 
-<h1 align="center">Cyberdesk AI SDK Computer Use Demo</h1>
-
+<h1 align="center">Cyberdesk AI SDK Computer Use Demo Clone</h1>
 <p align="center">
-  An open-source AI chatbot app template demonstrating Anthropic Claude 3.7 Sonnet's computer use capabilities, built with Next.js, Cyberdesk, and the AI SDK by Vercel.
+  An open-source AI chatbot app template demonstrating Anthropic Claude 3.7 Sonnet's computer use capabilities, built with Next.js, Cyberdesk, and the AI SDK by Vercel. By cyberdesk.io - copied for testing purposes.
 </p>
 
 <p align="center">
