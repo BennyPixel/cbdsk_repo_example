@@ -45,9 +45,3 @@
    ```
 
 4. Open [http://localhost:3000](http://localhost:3000) to view your new AI chatbot application.
-
-## Authors
-
-This repository is maintained by the [Cyberdesk](https://cyberdesk.io) team and community contributors.
-
-Contributions are welcome! Feel free to open issues or submit pull requests to enhance functionality or fix bugs.
